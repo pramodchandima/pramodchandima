@@ -14,29 +14,20 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      🎓 **Computer Science Undergraduate** at **Uva Wellassa University** <br/><br/>
-      💡 Passionate about turning ideas into functional digital solutions <br/>
-      🚀 Building modern web and mobile applications with clean code <br/>
-      🤖 Exploring **AI basics** and **local AI agent implementation** <br/>
-      🎬 Video editor & hardware enthusiast 
-    </td>
-    <td width="250px">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="210" />
 
-<br/>
+🎓 **Computer Science Undergraduate** at **Uva Wellassa University**<br> 💡 Passionate about turning ideas into functional digital solutions  <br>
+🚀 Building modern web and mobile applications with clean code  <br>
+🤖 Exploring **AI basics** and **local AI agent implementation** <br>🎬 Video editor & hardware enthusiast <br>
+
+<br clear="right"/>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,mysql,html,css,vscode,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,python,mysql,html,css,vscode,git,java,c" />
 </div>
 
 ---
@@ -66,7 +57,7 @@
          <p align="center">
            <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square" />
            <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square" />
-           <img src="https://img.shields.io/badge/-Express-000000?style=flat-square" />
+           <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square" />
          </p>
          <p align="center">
            <a href="https://github.com/pramodchandima/fashionhub">
@@ -112,7 +103,7 @@
     <tr>
       <td align="center"><b>Q3 - Q4</b></td>
       <td>AI Implementation</td>
-      <td>Local Model Deployment </td>
+      <td>Local Model Deployment</td>
     </tr>
   </table>
 </div>

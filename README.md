@@ -14,13 +14,22 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="210" />
+<table>
+  <tr>
+    <td>
+      🎓 **Computer Science Undergraduate** at **Uva Wellassa University** <br/>
+      💡 Passionate about turning ideas into functional digital solutions <br/>
+      🚀 Building modern web and mobile applications with clean code <br/>
+      🤖 Exploring **AI basics** and **local AI agent implementation** <br/>
+      🎬 Video editor & hardware enthusiast (Built a custom 2-way speaker system!)
+    </td>
+    <td width="250px">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" />
+    </td>
+  </tr>
+</table>
 
-🎓 **Computer Science Undergraduate** at **Uva Wellassa University**<br> 💡 Passionate about turning ideas into functional digital solutions  <br>
-🚀 Building modern web and mobile applications with clean code  <br>
-🤖 Exploring **AI basics** and **local AI agent implementation** <br>🎬 Video editor & hardware enthusiast <br>
-
-<br clear="right"/>
+<br/>
 
 ---
 

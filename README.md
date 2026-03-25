@@ -112,7 +112,7 @@
     <tr>
       <td align="center"><b>Q3 - Q4</b></td>
       <td>AI Implementation</td>
-      <td>Local Model Deployment, Vector DBs</td>
+      <td>Local Model Deployment </td>
     </tr>
   </table>
 </div>

@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-<table>
+<table align="center">
   <tr>
     <td>
       🎓 **Computer Science Undergraduate** at **Uva Wellassa University** <br/>

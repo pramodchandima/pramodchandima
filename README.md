@@ -122,7 +122,7 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://ඔයාගේ-portfolio-link-එක-මෙතන-දාන්න" target="_blank">
+  <a href="https://pramodchandima.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   
@@ -138,8 +138,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/..." />
-</div>
   <img src="https://komarev.com/ghpvc/?username=pramodchandima&label=Profile%20Views&color=2D9CDB&style=flat-square" alt="Profile Views" />
 </div>
 

@@ -24,8 +24,7 @@
       🎬 Video editor & hardware enthusiast (Built a custom 2-way speaker system!)
     </td>
     <td width="250px">
-      <video src="animation01.mp4" width="100%" autoplay loop muted playsinline>
-        Your browser does not support the video tag.
+      <video src="https://github.com/pramodchandima/pramodchandima/raw/main/animation01.mp4" width="100%" controls autoplay loop muted>
       </video>
     </td>
   </tr>

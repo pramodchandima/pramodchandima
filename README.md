@@ -24,7 +24,7 @@
       🎬 Video editor & hardware enthusiast (Built a custom 2-way speaker system!)
     </td>
     <td width="250px">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" />
+      <video src="animation01.mp4" width="100%" controls></video>
     </td>
   </tr>
 </table>

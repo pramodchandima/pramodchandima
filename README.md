@@ -24,8 +24,7 @@
       🎬 Video editor & hardware enthusiast (Built a custom 2-way speaker system!)
     </td>
     <td width="250px">
-      <video src="https://github.com/pramodchandima/pramodchandima/raw/main/animation01.mp4" width="100%" controls autoplay loop muted>
-      </video>
+      <img src="animation01.gif" width="100%" alt="Profile Animation">
     </td>
   </tr>
 </table>

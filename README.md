@@ -23,10 +23,14 @@
       🤖 Exploring **AI basics** and **local AI agent implementation** <br/>
       🎬 Video editor & hardware enthusiast (Built a custom 2-way speaker system!)
     </td>
-    <td width="250px">
+    <td width="250px" align="center" valign="middle">
       <img src="animation02.gif" 
-       alt="Profile Animation" 
-       style="width: 250px; height: 444px; object-fit: cover; border-radius: 10px;">
+           alt="Profile Animation" 
+           style="width: 250px; 
+                  aspect-ratio: 9 / 16; 
+                  object-fit: cover; 
+                  border-radius: 12px;
+                  display: block;">
     </td>
   </tr>
 </table>

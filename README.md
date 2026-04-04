@@ -24,7 +24,9 @@
       🎬 Video editor & hardware enthusiast (Built a custom 2-way speaker system!)
     </td>
     <td width="250px">
-      <img src="animation02.gif" alt="Profile Animation">
+      <img src="animation02.gif" 
+       alt="Profile Animation" 
+       style="width: 250px; height: 444px; object-fit: cover; border-radius: 10px;">
     </td>
   </tr>
 </table>

@@ -96,9 +96,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodchandima&theme=radical&hide_border=true&background=0D1117&stroke=2D9CDB&ring=2D9CDB&fire=2D9CDB&currStreakNum=FFFFFF" />
+  <img src="https://streak-stats.demolab.com/?user=pramodchandima&theme=radical&hide_border=true&background=0D1117&stroke=2D9CDB&ring=2D9CDB&fire=2D9CDB&currStreakNum=FFFFFF" />
 </div>
-
 ---
 
 ### 🎯 2026 Roadmap

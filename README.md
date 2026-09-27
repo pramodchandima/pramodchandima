@@ -124,20 +124,6 @@
 
 ---
 
-# Hi, I'm Pramod Fernando 👋
-
-## 📊 GitHub Stats
-
-![Pramod's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodchandima&show_icons=true&theme=radial)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodchandima&layout=compact&theme=radial)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramodchandima&theme=dark)
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">

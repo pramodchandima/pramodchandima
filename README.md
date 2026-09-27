@@ -124,6 +124,17 @@
 
 ---
 
+<!-- GitHub Stats Card -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/pramodchandima=pramodchandima&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?https://github.com/pramodchandima=pramodchandima&theme=dark)](https://git.io/streak-stats)
+
+<!-- Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/pramodchandima=pramodchandima&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🤝 Connect With Me
 
 <div align="center">
